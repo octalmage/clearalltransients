@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Clear All Transients
-Plugin URI: http://jasonstallings.wpengine.com
+Plugin URI: http://json.sx/clearalltransients
 Description: Allows you to delete all transients from WordPress. 
 Version: 0.1
 Author: Jason Stallings
-Author URI: http://jasonstallings.wpengine.com
+Author URI: http://json.sx
 License: GPL2
 */
 ?>
